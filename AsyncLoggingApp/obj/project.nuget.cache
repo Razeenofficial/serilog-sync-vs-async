@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eVjm8iHANlw=",
+  "success": true,
+  "projectFilePath": "C:\\Razeen proj\\sync vs async log\\LoggingComparison\\AsyncLoggingApp\\AsyncLoggingApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mahammed.razeen\\.nuget\\packages\\serilog\\4.2.0\\serilog.4.2.0.nupkg.sha512",
+    "C:\\Users\\mahammed.razeen\\.nuget\\packages\\serilog.sinks.async\\2.0.0\\serilog.sinks.async.2.0.0.nupkg.sha512",
+    "C:\\Users\\mahammed.razeen\\.nuget\\packages\\serilog.sinks.file\\6.0.0\\serilog.sinks.file.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

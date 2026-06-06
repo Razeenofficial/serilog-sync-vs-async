@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AsyncLoggingApp/AsyncLoggingApp.csproj" />
+  <Project Path="SyncLoggingApp/SyncLoggingApp.csproj" />
+</Solution>

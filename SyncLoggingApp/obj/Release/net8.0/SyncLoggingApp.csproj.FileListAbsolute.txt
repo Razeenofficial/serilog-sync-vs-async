@@ -1,0 +1,60 @@
+C:\Users\mahammed.razeen\OneDrive - Raasoft Infotech\Documents\Razeen projects\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\SyncLoggingApp.exe
+C:\Users\mahammed.razeen\OneDrive - Raasoft Infotech\Documents\Razeen projects\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\SyncLoggingApp.deps.json
+C:\Users\mahammed.razeen\OneDrive - Raasoft Infotech\Documents\Razeen projects\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\SyncLoggingApp.runtimeconfig.json
+C:\Users\mahammed.razeen\OneDrive - Raasoft Infotech\Documents\Razeen projects\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\SyncLoggingApp.dll
+C:\Users\mahammed.razeen\OneDrive - Raasoft Infotech\Documents\Razeen projects\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\SyncLoggingApp.pdb
+C:\Users\mahammed.razeen\OneDrive - Raasoft Infotech\Documents\Razeen projects\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\mahammed.razeen\OneDrive - Raasoft Infotech\Documents\Razeen projects\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mahammed.razeen\OneDrive - Raasoft Infotech\Documents\Razeen projects\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mahammed.razeen\OneDrive - Raasoft Infotech\Documents\Razeen projects\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mahammed.razeen\OneDrive - Raasoft Infotech\Documents\Razeen projects\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mahammed.razeen\OneDrive - Raasoft Infotech\Documents\Razeen projects\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\mahammed.razeen\OneDrive - Raasoft Infotech\Documents\Razeen projects\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mahammed.razeen\OneDrive - Raasoft Infotech\Documents\Razeen projects\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\mahammed.razeen\OneDrive - Raasoft Infotech\Documents\Razeen projects\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\mahammed.razeen\OneDrive - Raasoft Infotech\Documents\Razeen projects\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\mahammed.razeen\OneDrive - Raasoft Infotech\Documents\Razeen projects\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\mahammed.razeen\OneDrive - Raasoft Infotech\Documents\Razeen projects\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\mahammed.razeen\OneDrive - Raasoft Infotech\Documents\Razeen projects\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\Serilog.dll
+C:\Users\mahammed.razeen\OneDrive - Raasoft Infotech\Documents\Razeen projects\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\Serilog.Sinks.File.dll
+C:\Users\mahammed.razeen\OneDrive - Raasoft Infotech\Documents\Razeen projects\sync vs async log\LoggingComparison\SyncLoggingApp\obj\Release\net8.0\SyncLoggingApp.csproj.AssemblyReference.cache
+C:\Users\mahammed.razeen\OneDrive - Raasoft Infotech\Documents\Razeen projects\sync vs async log\LoggingComparison\SyncLoggingApp\obj\Release\net8.0\SyncLoggingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahammed.razeen\OneDrive - Raasoft Infotech\Documents\Razeen projects\sync vs async log\LoggingComparison\SyncLoggingApp\obj\Release\net8.0\SyncLoggingApp.AssemblyInfoInputs.cache
+C:\Users\mahammed.razeen\OneDrive - Raasoft Infotech\Documents\Razeen projects\sync vs async log\LoggingComparison\SyncLoggingApp\obj\Release\net8.0\SyncLoggingApp.AssemblyInfo.cs
+C:\Users\mahammed.razeen\OneDrive - Raasoft Infotech\Documents\Razeen projects\sync vs async log\LoggingComparison\SyncLoggingApp\obj\Release\net8.0\SyncLoggingApp.csproj.CoreCompileInputs.cache
+C:\Users\mahammed.razeen\OneDrive - Raasoft Infotech\Documents\Razeen projects\sync vs async log\LoggingComparison\SyncLoggingApp\obj\Release\net8.0\SyncLogg.21919D39.Up2Date
+C:\Users\mahammed.razeen\OneDrive - Raasoft Infotech\Documents\Razeen projects\sync vs async log\LoggingComparison\SyncLoggingApp\obj\Release\net8.0\SyncLoggingApp.dll
+C:\Users\mahammed.razeen\OneDrive - Raasoft Infotech\Documents\Razeen projects\sync vs async log\LoggingComparison\SyncLoggingApp\obj\Release\net8.0\refint\SyncLoggingApp.dll
+C:\Users\mahammed.razeen\OneDrive - Raasoft Infotech\Documents\Razeen projects\sync vs async log\LoggingComparison\SyncLoggingApp\obj\Release\net8.0\SyncLoggingApp.pdb
+C:\Users\mahammed.razeen\OneDrive - Raasoft Infotech\Documents\Razeen projects\sync vs async log\LoggingComparison\SyncLoggingApp\obj\Release\net8.0\SyncLoggingApp.genruntimeconfig.cache
+C:\Users\mahammed.razeen\OneDrive - Raasoft Infotech\Documents\Razeen projects\sync vs async log\LoggingComparison\SyncLoggingApp\obj\Release\net8.0\ref\SyncLoggingApp.dll
+C:\Razeen proj\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\SyncLoggingApp.exe
+C:\Razeen proj\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\SyncLoggingApp.deps.json
+C:\Razeen proj\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\SyncLoggingApp.runtimeconfig.json
+C:\Razeen proj\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\SyncLoggingApp.dll
+C:\Razeen proj\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\SyncLoggingApp.pdb
+C:\Razeen proj\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Razeen proj\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Razeen proj\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Razeen proj\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Razeen proj\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Razeen proj\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\Microsoft.Extensions.Logging.dll
+C:\Razeen proj\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Razeen proj\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Razeen proj\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\Microsoft.Extensions.Logging.Console.dll
+C:\Razeen proj\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+C:\Razeen proj\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Razeen proj\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Razeen proj\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\Serilog.dll
+C:\Razeen proj\sync vs async log\LoggingComparison\SyncLoggingApp\bin\Release\net8.0\Serilog.Sinks.File.dll
+C:\Razeen proj\sync vs async log\LoggingComparison\SyncLoggingApp\obj\Release\net8.0\SyncLoggingApp.csproj.AssemblyReference.cache
+C:\Razeen proj\sync vs async log\LoggingComparison\SyncLoggingApp\obj\Release\net8.0\SyncLoggingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Razeen proj\sync vs async log\LoggingComparison\SyncLoggingApp\obj\Release\net8.0\SyncLoggingApp.AssemblyInfoInputs.cache
+C:\Razeen proj\sync vs async log\LoggingComparison\SyncLoggingApp\obj\Release\net8.0\SyncLoggingApp.AssemblyInfo.cs
+C:\Razeen proj\sync vs async log\LoggingComparison\SyncLoggingApp\obj\Release\net8.0\SyncLoggingApp.csproj.CoreCompileInputs.cache
+C:\Razeen proj\sync vs async log\LoggingComparison\SyncLoggingApp\obj\Release\net8.0\SyncLogg.21919D39.Up2Date
+C:\Razeen proj\sync vs async log\LoggingComparison\SyncLoggingApp\obj\Release\net8.0\SyncLoggingApp.dll
+C:\Razeen proj\sync vs async log\LoggingComparison\SyncLoggingApp\obj\Release\net8.0\refint\SyncLoggingApp.dll
+C:\Razeen proj\sync vs async log\LoggingComparison\SyncLoggingApp\obj\Release\net8.0\SyncLoggingApp.pdb
+C:\Razeen proj\sync vs async log\LoggingComparison\SyncLoggingApp\obj\Release\net8.0\SyncLoggingApp.genruntimeconfig.cache
+C:\Razeen proj\sync vs async log\LoggingComparison\SyncLoggingApp\obj\Release\net8.0\ref\SyncLoggingApp.dll
